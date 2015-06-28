@@ -1,5 +1,0 @@
-To build this, you will want to have the CodeSourcery ARM toolchain:
-  http://www.codesourcery.com/sgpp/lite/arm/portal/release1592
-
-And lpc21isp for programming:
-  svn co https://lpc21isp.svn.sourceforge.net/svnroot/lpc21isp lpc21isp
